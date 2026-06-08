@@ -1,8 +1,8 @@
 venv/
-.env/
 __pycache__/
 *.pyc
 .env
+.env/
 manga_library.db
 .DS_Store
 Thumbs.db
