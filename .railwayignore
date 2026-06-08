@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+manga_library.db
+.DS_Store
